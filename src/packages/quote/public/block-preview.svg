@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="450"
+   height="300"
+   viewBox="0 0 450 300"
+   fill="none"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="block-preview.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3966667"
+     inkscape:cx="224.68707"
+     inkscape:cy="133.31015"
+     inkscape:window-width="1390"
+     inkscape:window-height="969"
+     inkscape:window-x="1852"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:181.251px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.944016"
+     x="15.687205"
+     y="201.34422"
+     id="text5316"
+     transform="scale(1.0593043,0.9440158)"><tspan
+       sodipodi:role="line"
+       id="tspan5314"
+       x="15.687205"
+       y="201.34422"
+       style="stroke-width:0.944016">|</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:none"
+     x="56.255905"
+     y="110.57023"
+     id="text9776"><tspan
+       sodipodi:role="line"
+       id="tspan9774"
+       x="56.255905"
+       y="110.57023">Lorem ipsum dolor sit amet, </tspan><tspan
+       sodipodi:role="line"
+       x="56.255905"
+       y="137.23685"
+       id="tspan17408">consectetur adipiscing elit, sed do</tspan><tspan
+       sodipodi:role="line"
+       x="56.255905"
+       y="163.90347"
+       id="tspan17410">eiusmod tempor incididunt ut</tspan><tspan
+       sodipodi:role="line"
+       x="56.255905"
+       y="190.5701"
+       id="tspan17412">labore et dolore magna aliqua.</tspan></text>
+</svg>
