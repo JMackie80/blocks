@@ -74,8 +74,8 @@
   },
   "blockprotocol": {
     "displayName": "Quote",
-    "icon": "public/h1.svg",
-    "image": "public/preview.svg",
+    "icon": "public/quote.svg",
+    "image": "public/block-preview.svg",
     "examples": [
       {
         "text": "Hello World!",
